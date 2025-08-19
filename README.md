@@ -1,6 +1,4 @@
-# Hi there, I'm davve5 👋
-
-Welcome to my GitHub profile!
+# Hi there, I'm David 👋
 
 ## 👨‍💻 About Me
 I'm a passionate developer with experience across a range of technologies. My work spans from building robust web applications to exploring the world of IoT and automation. I thrive at the intersection of creativity and technology, always looking to learn, build, and innovate.
